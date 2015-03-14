@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Age Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">ENTER BIRTH YEAR</string>
+    <string name="textView2">ENTER CURRENT YEAR</string>
+    <string name="editText"></string>
+    <string name="editText2"></string>
+    <string name="button">COMPUTE</string>
+    <string name="textView3">Your AGE:</string>
+    <string name="textView4"></string>
+
+</resources>
